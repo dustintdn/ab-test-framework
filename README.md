@@ -26,15 +26,12 @@ ab_test_framework/
 │   ├── quick_start.py         # Minimal 5-minute example
 │   └── complete_example.py    # Full workflow demonstration
 │
-├── tests/                      # Test suite
+├── tests/
 │   └── test_basic.py          # Unit tests for all modules
 │
-├── README.md                   # This file - comprehensive guide
-├── GETTING_STARTED.md          # Quick setup instructions
-├── PROJECT_STRUCTURE.md        # Detailed technical overview
-├── requirements.txt            # Python dependencies
-├── setup.py                    # Package installation script
-└── .gitignore                  # Git ignore rules
+├── README.md    
+├── requirements.txt            
+└── setup.py                    # Package installation script
 ```
 
 ## Installation
